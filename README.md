@@ -37,4 +37,4 @@
 6.	При больших N (~1000000) время работы приложения не должно быть более пяти минут.
 
         
-        https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md
+`<link>`:https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md
